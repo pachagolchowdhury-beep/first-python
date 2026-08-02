@@ -1,0 +1,2 @@
+# Password Manager
+hi! uhhh... new here over in github, I tried to make a password manager for storing passwords from different social media sites or different websites with a little less sensitive inputs. you can store up multiple data inputs and create a master password for more encryption and security. Added a little more for an instance of creating a dummy account asw. Hopefully, you can be helped out even for a bit. Thanks!
